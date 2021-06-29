@@ -1,0 +1,31 @@
+.home {
+  display: flex;
+  height: 100vh;
+  //background-color: rgb(98, 98, 114);
+  justify-content: space-around;
+  align-items: center;
+  padding: 3% 0;
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media (max-width: 1000px) {
+  .home {
+    height: 100%;
+    .container {
+      flex-direction: column;
+      justify-content: space-between;
+      height: 100%;
+      gap: 50px;
+    }
+  }
+}
+
+@media(max-width:600px){
+  .home{
+    height: 100%;
+  }
+}

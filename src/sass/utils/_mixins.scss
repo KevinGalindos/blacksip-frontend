@@ -1,0 +1,16 @@
+@mixin fontFace($name, $file, $weight: normal) {
+  $path: "../assets/fonts/" + $file;
+  @font-face {
+    font-family: $name;
+    src: url($path+".ttf") format(truetype);
+    font-weight: $weight;
+  }
+}
+
+
+@mixin container {
+  max-width: 1344px;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+ }
