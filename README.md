@@ -1,3 +1,33 @@
+
+
+🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥
+
+
+WEB VIEW 
+![image](https://user-images.githubusercontent.com/38867361/123722629-54ff5380-d84e-11eb-850d-fa9b29044827.png)
+
+
+
+RESPONSIVE DESIGN 
+
+![image](https://user-images.githubusercontent.com/38867361/123722708-7d874d80-d84e-11eb-83c6-1ab73933dac0.png)
+
+![image](https://user-images.githubusercontent.com/38867361/123722748-8ed05a00-d84e-11eb-95c8-ab6876e0907d.png)
+
+
+1 -----> clone the repository. ### `git clone`
+
+2 -----> install global ### `npm install`
+
+3 -----> Run the project ### `npm start`
+
+🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
